@@ -4,4 +4,4 @@ dummy
 
 This is a test commit
 
-Commit signed
+Commit signed true
